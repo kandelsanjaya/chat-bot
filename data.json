@@ -1,0 +1,82 @@
+[
+  {
+    "question": "What is the leave policy?",
+    "answer": "Employees are entitled to 20 days of paid annual leave per year, 10 days of sick leave, 3 days of personal leave, and 14 days of public holidays. Leave must be applied for at least 3 days in advance except for sick leave. Unused annual leave can be carried forward up to 10 days to the next year."
+  },
+  {
+    "question": "How do I apply for leave?",
+    "answer": "To apply for leave, log in to the HR portal at hr.company.com, navigate to 'My Leave', click 'Apply Leave', select the leave type and dates, add a reason, and submit. Your manager will receive a notification and must approve within 2 business days. You will receive an email confirmation once approved or rejected."
+  },
+  {
+    "question": "What is the work from home policy?",
+    "answer": "Employees may work from home up to 2 days per week with manager approval. WFH must be requested by Friday for the following week. Employees must be reachable during core hours (10 AM–4 PM), maintain a suitable work environment, and attend all scheduled meetings virtually. New employees must complete 3 months before becoming eligible for WFH."
+  },
+  {
+    "question": "What are the working hours?",
+    "answer": "Standard working hours are 9:00 AM to 6:00 PM, Monday to Friday, with a 1-hour lunch break. Core hours when all employees must be available are 10:00 AM to 4:00 PM. Flexible start times between 8:00 AM and 10:00 AM are allowed with manager approval. Overtime beyond 45 hours/week must be pre-approved and will be compensated."
+  },
+  {
+    "question": "How do I claim reimbursements?",
+    "answer": "Submit reimbursement claims through the HR portal under 'Expenses'. Attach original receipts (PDF or image), categorize the expense, and add a business justification. Claims must be submitted within 30 days of incurring the expense. Approved reimbursements are processed in the next payroll cycle. Travel expenses above $500 require pre-approval."
+  },
+  {
+    "question": "What is the probation period?",
+    "answer": "The probation period for new employees is 3 months from the date of joining. During probation, employees receive full salary and benefits but limited leave (5 days). A performance review is conducted at the end of probation. Either party can terminate employment during probation with 1 week's notice. Probation can be extended by up to 1 month if needed."
+  },
+  {
+    "question": "How does the performance review process work?",
+    "answer": "Performance reviews are conducted twice a year — in June and December. Employees complete a self-assessment, then meet with their manager for a structured discussion covering goal achievement, competencies, and career development. Ratings range from 1 (needs improvement) to 5 (exceptional). Reviews directly influence annual increments and promotion decisions."
+  },
+  {
+    "question": "What health benefits are provided?",
+    "answer": "The company provides comprehensive health insurance covering the employee, spouse, and up to 2 dependent children. Coverage includes outpatient (up to $3,000/year), inpatient (up to $50,000/year), dental ($500/year), and optical ($300/year). Employees may add parents to the plan at subsidized rates. Mental health counseling sessions (up to 6/year) are fully covered."
+  },
+  {
+    "question": "What is the salary review process?",
+    "answer": "Salary reviews occur annually in January based on the December performance review. Increments range from 3% (meets expectations) to 15% (exceptional performance). Market benchmarking is conducted annually to ensure competitive compensation. Promotion-linked salary adjustments may occur outside this cycle. All salary changes are communicated in writing by the HR department."
+  },
+  {
+    "question": "How do I report a grievance?",
+    "answer": "To report a workplace grievance, employees can speak to their direct manager, escalate to HR, or use the anonymous grievance portal at hr.company.com/grievance. All reports are treated confidentially. HR will acknowledge receipt within 2 business days and resolve the matter within 21 days. Retaliation against anyone who raises a grievance is strictly prohibited."
+  },
+  {
+    "question": "What is the training and development policy?",
+    "answer": "Each employee has an annual Learning & Development budget of $1,500 for external courses, certifications, and conferences. Internal training programs are available year-round at no cost. Employees are encouraged to spend at least 20 hours per year on professional development. Training requests must be approved by the line manager and HR. Mandatory compliance training must be completed by all staff annually."
+  },
+  {
+    "question": "What happens during onboarding?",
+    "answer": "Onboarding begins on Day 1 with equipment setup and system access. During Week 1, new hires attend orientation covering company culture, policies, and tools. Weeks 2–4 involve team introductions, role-specific training, and shadowing. By Month 2, new hires receive their first formal check-in with HR and their manager. The full onboarding program runs 90 days and ends with a probation review."
+  },
+  {
+    "question": "What is the resignation process?",
+    "answer": "To resign, submit a formal written resignation letter to your manager and HR with the intended last working day. Notice periods: 1 month for staff, 2 months for managers, 3 months for senior management. The company may waive part of the notice period. A clearance checklist including IT handover, asset return, and knowledge transfer must be completed before the last day. Final salary is processed within 5 working days of exit."
+  },
+  {
+    "question": "What is the code of conduct?",
+    "answer": "All employees are expected to maintain professional behavior, treat colleagues with respect, protect company assets and confidential information, avoid conflicts of interest, and comply with all laws and regulations. Violations may result in disciplinary action up to and including termination. The full Code of Conduct document is available on the HR portal and must be acknowledged annually."
+  },
+  {
+    "question": "What are the overtime and compensation policies?",
+    "answer": "Overtime is work beyond 45 hours per week. Non-exempt employees receive 1.5x their hourly rate for overtime hours. Overtime must be pre-approved by the line manager. Exempt/senior employees may receive compensatory leave instead of overtime pay. All overtime is recorded in the time-tracking system. Unapproved overtime will not be compensated."
+  },
+  {
+    "question": "How do I update my personal information?",
+    "answer": "Update personal details (address, phone, emergency contacts, bank account) through the HR Self-Service portal at hr.company.com/profile. Changes to name or identity documents require supporting documentation submitted to HR. Bank account changes require a voided cheque and take effect in the next payroll cycle. Keep your information updated to ensure payslips and benefits are correctly processed."
+  },
+  {
+    "question": "What is the maternity and paternity leave policy?",
+    "answer": "Female employees are entitled to 16 weeks of fully paid maternity leave. This can start up to 4 weeks before the expected delivery date. Male employees receive 2 weeks of paid paternity leave, to be taken within 8 weeks of the child's birth. Adoption leave follows the same schedule. Employees must notify HR at least 8 weeks in advance and provide relevant documentation."
+  },
+  {
+    "question": "How does the payroll process work?",
+    "answer": "Salaries are processed on the 25th of each month. If the 25th falls on a weekend or public holiday, payment is made on the preceding working day. Payslips are available on the HR portal by the 20th. Deductions include income tax, CPF/provident fund contributions, and any authorized personal loans. Queries about payroll must be raised by the 15th of the month to be addressed in the current cycle."
+  },
+  {
+    "question": "What is the company's anti-harassment policy?",
+    "answer": "The company has zero tolerance for harassment of any kind, including sexual, verbal, physical, or cyber harassment. All complaints must be reported to HR or via the anonymous portal. An independent committee investigates all complaints within 30 days. Substantiated complaints result in disciplinary action up to termination. The company ensures confidentiality and protection from retaliation for all complainants."
+  },
+  {
+    "question": "What employee referral benefits are available?",
+    "answer": "Employees can refer candidates for open positions through the HR portal. If the referred candidate is hired and completes 3 months, the referring employee receives a referral bonus of $500–$2,000 depending on the role level. Senior and hard-to-fill roles may offer higher bonuses. The referral must be submitted before the candidate applies independently. Self-referrals and referrals for immediate family are not eligible."
+  }
+]
